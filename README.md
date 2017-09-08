@@ -3,7 +3,7 @@ JAVA - Spring - Maven - PostgreSQL projekt-template
 Technológiák:
 
 + Java 1.8
-+Spring 4.3.10
++ Spring 4.3.10
 + Maven 3.6.2
 + GlassFish 4.1.1
 + PostgreSQL 9.4
