@@ -1,6 +1,6 @@
-JAVA - Spring - Maven - PostgreSQL projekt-template
+JAVA - Spring - Maven - PostgreSQL project template
 
-Technológiák:
+Used technologies:
 
 + Java 1.8
 + Spring 4.3.10
@@ -8,7 +8,6 @@ Technológiák:
 + GlassFish 4.1.1
 + PostgreSQL 9.4
 
-Elő-konfigurálva postgresql adatbázis használatára.
-A resources/db_dump.sql fájlban található SQL szkriptet ráfuttatva egy üres db-re létrehoz egy táblát két rekorddal.
-Az adatbázis nevét, valamint user/pass beállításait itt állíthatod be: resources/database/Spring-Databasource.xml.
-Tartalmaz még egy index html-t is(.jsp), amely működő adatbázis kapcsolat esetén kilistázza az egyetlen tábla tartalmát a képernyőre.
+Pre-configured postgresql db. connection. Use the resources/db_dump.sql file for create test db. This db. contains only one table with two records.
+You can set your db. name and user/ pass. in resources/database/Spring-Databasource.xml. 
+This project contains an index html (.jsp) file, that can to show you the list of the table content if the db. connection is Ok.
