@@ -3,7 +3,7 @@ JAVA - Spring - Maven - PostgreSQL project template
 Used technologies:
 
 + Java 1.8
-+ Spring 4.3.10
++ Spring 4.3.20
 + Maven 3.6.2
 + GlassFish 4.1.1
 + PostgreSQL 9.4
